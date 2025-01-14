@@ -18,5 +18,4 @@ Les sujets abordés sont les suivants:
 Ces travaux m'ont permis d'apprendre à manipuler les bases de données SQL et NoSQL à l'aide de Python. J'ai pu ainsi acquérir des nouvelles compétences qui me seront utiles dans le cadre de ma future formation en alternance afin de devenir Ingénieur en Machine Learning. Je suis donc prêt à mettre en pratique ces compétences dans le cadre de missions qui me seront confiées.
 
 ## Contact
-Si vous êtes recruteur et que vous êtes intéressé par mon profil, vous pouvez m'appeler au 0652@74@87@30. <br>
-[Mon LinkedIn](https://www.linkedin.com/in/charles-henri-saint-mars)
+[LinkedIn de Charles-Henri SAINT-MARS](https://www.linkedin.com/in/charles-henri-saint-mars)
