@@ -1,7 +1,7 @@
 # Bases de données SQL et NoSQL avec Python
 
 ## Introduction
-Je m'appelle **Charles-Henri SAINT-MARS** et je suis actuellement en **recherche** d'une **entreprise d'accueil** afin d'effectuer une formation d'**Ingénieur en Machine Learning** en alternance et bien entendu de faire profiter de mes connaissances et compétences à cette entreprise d'accueil. Entre-temps, je suis des MOOCs afin de progresser dans ce domaine et d'être mieux préparé pour les missions qui me seront confiées. Les notebooks de ce dépôt concernent la manipulation des bases de données SQL (MySQL) et NoSQL (MongoDB) via Python. 
+Je m'appelle **Charles-Henri SAINT-MARS** et je m'intéresse au monde de l'Intelligence Artificielle et de la Data. Les notebooks de ce dépôt concernent la création et la manipulation des bases de données SQL (MySQL) et NoSQL (MongoDB) via Python. 
 
 ## Les sujet abordés
 Les sujets abordés sont les suivants:
